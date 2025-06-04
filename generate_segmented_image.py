@@ -1,11 +1,3 @@
-# -*- encoding: utf-8 -*-
-"""
-@author   :   yykzjh    
-@Contact  :   yykzhjh@163.com
-@DateTime :   2024/12/12 15:20
-@Version  :   1.0
-@License  :   (C)Copyright 2024
-"""
 import os
 
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "max_split_size_mb:128"

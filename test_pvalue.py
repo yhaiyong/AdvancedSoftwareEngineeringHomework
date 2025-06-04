@@ -1,11 +1,3 @@
-# -*- encoding: utf-8 -*-
-"""
-@author   :   yykzjh
-@Contact  :   yykzhjh@163.com
-@DateTime :   2024/12/08 17:05
-@Version  :   1.0
-@License  :   (C)Copyright 2024
-"""
 import os
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "1"
