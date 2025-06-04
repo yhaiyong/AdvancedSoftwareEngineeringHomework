@@ -3,8 +3,6 @@ images/
 .idea/
 .DS_Store
 datasets/
-pretrain/
-runs/
 log/
 
 
